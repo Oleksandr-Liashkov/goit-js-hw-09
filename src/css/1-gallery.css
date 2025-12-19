@@ -3,3 +3,19 @@
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
+
+.sl-wrapper .sl-close {
+  color: #fff;
+}
+
+.sl-wrapper .sl-counter {
+  color: #fff;
+}
+
+.sl-wrapper .sl-navigation button {
+  color: #fff;
+}
+
+.sl-wrapper {
+  background: rgba(46, 47, 66, 0.8);
+}
